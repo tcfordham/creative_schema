@@ -1,0 +1,45 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Holt Physical Science",
+  "description": "NIMAC-sourced textbook",
+  "genre": "Educational Materials",
+  "inLanguage": "en-US",
+  "isbn": "9780030426599",
+  "bookFormat": "EBook",
+  "numberOfPages": 598,
+  "isFamilyFriendly": true,
+  "accessibility": {
+    "accessibilityAPI": "ARIA",
+    "accessibilityControl": ["fullKeyboardControl", "fullMouseControl"],
+    "accessibilityFeature": [
+      "largePrint",
+      "highContrast",
+      "resizeText",
+      "displayTransformability",
+      "longDescription",
+      "alternativeText"
+    ],
+    "accessibilityHazard": [
+      "noFlashingHazard",
+      "noMotionSimulationHazard",
+      "noSoundHazard"
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 0,
+    "reviewCount": 0
+  },
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Holt, Rinehart and Winston"
+  },
+  "copyrightYear": 2007,
+  "publisher": {
+    "@type": "Organization",
+    "name": "Holt, Rinehart and Winston"
+  }
+}
+</script>
